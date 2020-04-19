@@ -9,5 +9,5 @@ Foi utilizado o copilador IndtellJ IDEA 2019.3.4 com as seguintes bibliotecas JU
 Fetures:
 O projeto pode ser usado como modelo inicial para possível automatização de todo o sistema
 
-Licensa:
+Licença:
 Não se aplica
